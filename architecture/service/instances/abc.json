@@ -48,5 +48,6 @@
     "env": {
       "LOG_LEVEL": "INFO"
     }
-  }
+  },
+  "test": true
 }
