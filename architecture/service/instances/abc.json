@@ -49,5 +49,5 @@
       "LOG_LEVEL": "INFO"
     }
   },
-  "test": true
+  "test": false
 }
